@@ -1,0 +1,16 @@
+Accuracy: 32.83%
+
+                precision    recall  f1-score   support
+
+  Construction       0.37      0.39      0.38        75
+      Go Right       0.32      0.28      0.30        75
+    Keep Right       0.33      0.36      0.35        75
+      No Entry       0.29      0.29      0.29        75
+ No Overtaking       0.32      0.25      0.28        75
+Speed Limit 20       0.29      0.29      0.29        75
+          Stop       0.38      0.41      0.40        75
+         Yield       0.28      0.29      0.28        75
+
+      accuracy                           0.32       600
+     macro avg       0.32      0.32      0.32       600
+  weighted avg       0.32      0.32      0.32       600
